@@ -20,7 +20,7 @@
 - Email: sijan.shrestha0112@gmail.com
 
 ---
-Here is my [resume](https://file.notion.so/f/f/b21a2335-152c-48bf-af75-8da4877d6383/6ff87854-98d8-4515-829e-c793a32f8b61/Sijan_Shrestha-Resume.pdf?table=block&id=110059ee-9847-8060-bb7c-c5ed93138c22&spaceId=b21a2335-152c-48bf-af75-8da4877d6383&expirationTimestamp=1727740800000&signature=NYHvqIGdgkFZrFFNnxb9AVMumL3PzdSPtxHbKOn9sHU&downloadName=Sijan_Shrestha-Resume.pdf)
+Here is my [resume](https://docs.google.com/document/d/1-PRsaIpBm56XqaPwADMDaPld1B7Iew11qoLgr3xgNpU/edit?usp=sharing)
 
 <!--
 **shrsijan/shrsijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
