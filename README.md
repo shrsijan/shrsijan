@@ -1,3 +1,5 @@
+<!--
+
 ## Namaste 🙏
 
 🌱 **I'm Sijan Shrestha! Aspiring Software Engineer & Researcher** passionate about leveraging technology for impactful solutions. Currently pursuing a **Bachelor's in Computer Science** at Howard University.
